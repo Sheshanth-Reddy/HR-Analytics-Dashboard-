@@ -8,7 +8,6 @@ Excited to share my portfolio Project, where i developed an interactive data vis
 -Employee Count, Attrirtion percentage, Attrirtion Count, ect.. 
 
 KPIs
-
 * Attrirtion by Gender.
 * Department wise Attrition Count.
 * Attrition by Age.
