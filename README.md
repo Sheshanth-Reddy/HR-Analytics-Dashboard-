@@ -1,4 +1,3 @@
-# HR-Analytics-Dashboard
 
 # HR ANALYTICS DASHBOARD
 Excited to share my portfolio Project, where i developed an interactive data visualization dashboard using Power BI ! This dashboard provides insights of the attrition of an organization which help the HR team for their further analysis.
